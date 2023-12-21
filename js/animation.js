@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Golam Morsed", "Feelancer", "Web developer", "Problem solver"];
+const textArray = ["Alex Mwaniki", "A Back-End Developer", "A Flutter Developer", "A Software Engineer", "A Graphic Designer"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text

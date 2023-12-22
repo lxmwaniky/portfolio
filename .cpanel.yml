@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/vqaeekzb/lx.techandgeneral.com/
+    - /bin/cp -R images $DEPLOYPATH
